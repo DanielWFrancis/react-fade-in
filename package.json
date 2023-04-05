@@ -1,5 +1,5 @@
 {
-  "name": "@zizm111/react-fade-in",
+  "name": "react-fade-in",
   "version": "2.0.2",
   "description": "Super-easy fade-in animation for react children",
   "main": "lib/index.js",
